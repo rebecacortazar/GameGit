@@ -27,6 +27,6 @@ public class Barbarian extends Character {
 		logger.info("Simulation of changes");
 		logger.info("Simulation of changes, second time with comment in commit from Github");
 		logger.info("Simulation of changes, third time. Automatic merge");
-		
+	}
 		
 	}

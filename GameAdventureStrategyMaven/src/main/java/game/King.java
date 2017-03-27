@@ -4,6 +4,8 @@ public class King extends Character {
 
 	public King(WeaponBehaviour w) {
 		super(w);
+		logger.info("Let's create a King; for pull request");
+		//after pull request
 	}
 	
 	@Override
