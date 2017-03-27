@@ -14,6 +14,7 @@ public abstract class Character {
 	*/
 	public Character(WeaponBehaviour w){
 		weapon = w;
+		logger.info("Creating a character. Branch commit 1");
 	}
 	
 	/**
