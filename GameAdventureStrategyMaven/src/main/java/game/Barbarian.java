@@ -20,5 +20,7 @@ public class Barbarian extends Character {
 	// TODO Auto-generated method stub
 		logger.info("Modified from B!");
 		logger.info("You are a strong, hulky barbarian!!!.");
+		logger.info("First  changes in Barbarian");
+		
 	}
 }
