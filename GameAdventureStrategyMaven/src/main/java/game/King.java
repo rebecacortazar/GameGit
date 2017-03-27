@@ -6,6 +6,7 @@ public class King extends Character {
 		super(w);
 		logger.info("Let's create a King; for pull request");
 		//after pull request
+
 	}
 	
 	@Override

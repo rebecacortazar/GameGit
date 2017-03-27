@@ -14,6 +14,9 @@ public class Barbarian extends Character {
 	public Barbarian(WeaponBehaviour w) {
 		super(w);
 			logger.info("create a Barbarian; automatic merge; no conflict");
+
+			logger.info("Let´s create a Barbarian; automatic merge; no conflict");
+
 		
 	}
 	
