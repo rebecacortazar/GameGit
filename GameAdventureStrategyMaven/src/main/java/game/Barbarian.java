@@ -22,7 +22,7 @@ public class Barbarian extends Character {
 		logger.info("You are a strong, hulky barbarian!!!.");
 		logger.info("First  changes in Barbarian");
 		logger.info("Second  changes in Barbarian");
-		
+		logger.info("Simulation of changes");
+		logger.info("Simulation of changes, second time with comment in commit from Github");
 		
 	}
-}
