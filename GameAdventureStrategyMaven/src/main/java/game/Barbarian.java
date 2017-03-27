@@ -21,6 +21,8 @@ public class Barbarian extends Character {
 		logger.info("Modified from B!");
 		logger.info("You are a strong, hulky barbarian!!!.");
 		logger.info("First  changes in Barbarian");
+		logger.info("Second  changes in Barbarian");
+		
 		
 	}
 }
