@@ -16,6 +16,7 @@ public class Barbarian extends Character {
 			logger.info("create a Barbarian; automatic merge; no conflict");
 			logger.info("Let´s create a Barbarian; automatic merge; no conflict");
 			logger.info("commit 1 for rebase");
+			logger.info("commit 2 for rebase2 ");
 
 		
 	}
