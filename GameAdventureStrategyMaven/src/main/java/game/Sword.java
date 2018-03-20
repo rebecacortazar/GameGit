@@ -15,6 +15,7 @@ public class Sword implements WeaponBehaviour {
 		System.out.println("You slash madly with your sword.");
 		System.out.println("User 1. commit 1");
 		System.out.println("User 1. commit 2");
+		System.out.println("User 1. commit 3");
 	}
 }
 
