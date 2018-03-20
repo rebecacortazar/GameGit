@@ -21,7 +21,7 @@ public class Barbarian extends Character {
 	public void display() {
 	// TODO Auto-generated method stub
 		logger.info("Barbarian");
-		logger.info("Barbarian cambios para conflicto en Eclipse");
+		logger.info("Provocando cambios directamente en Github para conflicto en Eclipse");
 	}
 		
 	}
