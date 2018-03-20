@@ -16,6 +16,7 @@ public class Sword implements WeaponBehaviour {
 		System.out.println("User 1. commit 1");
 		System.out.println("User 1. commit 2");
 		System.out.println("User 1. commit 3");
+		System.out.println("User 1. commit 4");
 	}
 }
 
