@@ -13,24 +13,14 @@ public class Barbarian extends Character {
 	*/
 	public Barbarian(WeaponBehaviour w) {
 		super(w);
-			logger.info("create a Barbarian; automatic merge; no conflict");
-			logger.info("Let´s create a Barbarian; automatic merge; no conflict");
-			logger.info("commit 1 for rebase");
-			logger.info("commit 2 for rebase2 ");
-
+			logger.info("Create a Barbarian");
 		
 	}
 	
 	@Override
 	public void display() {
 	// TODO Auto-generated method stub
-		logger.info("Modified from B!");
-		logger.info("You are a strong, hulky barbarian!!!.");
-		logger.info("First  changes in Barbarian");
-		logger.info("Second  changes in Barbarian");
-		logger.info("Simulation of changes");
-		logger.info("Simulation of changes, second time with comment in commit from Github");
-		logger.info("Simulation of changes, third time. Automatic merge");
+		logger.info("Barbarian");
 	}
 		
 	}
