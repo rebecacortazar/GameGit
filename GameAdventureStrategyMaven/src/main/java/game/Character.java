@@ -6,6 +6,7 @@ import org.slf4j.LoggerFactory;
 public abstract class Character {
 	final Logger logger = LoggerFactory.getLogger(Character.class);
 	private WeaponBehaviour weapon;
+	private String a = "Experimenting number 1";
 	
 	/**
 	* Constructor of Character thar receives as argument a WeaponBehaviour.
