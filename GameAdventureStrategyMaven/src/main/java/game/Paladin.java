@@ -11,6 +11,6 @@ public class Paladin extends Character {
 	// TODO Auto-generated method stub
 		System.out.println("You are a holy paladin, slayer of evil.");
 		System.out.println("User 2. commit 1");
-		System.out.println("User 2. commit 2");
+		System.out.println("User 2. commit 2. Intento de conflicto. User 1 escribe este texto");
 	}
 }
