@@ -10,5 +10,6 @@ public class Paladin extends Character {
 	public void display() {
 	// TODO Auto-generated method stub
 		System.out.println("You are a holy paladin, slayer of evil.");
+		System.out.println("User 2. commit 1");
 	}
 }
